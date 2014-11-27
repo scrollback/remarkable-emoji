@@ -9,7 +9,7 @@
     ],
     "repository": {
         "type": "git",
-        "path": "git://github.com/scrollback/remarkable-emoji.git"
+        "path": "git://github.com/scrollback/remarkable-emoji"
     },
     "bugs": "https://github.com/scrollback/remarkable-emoji/issues",
     "contributors": [
