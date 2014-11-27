@@ -18,7 +18,6 @@
             "email": "amal@scrollback.io"
         }
     ],
-    "private": true,
     "license": "MIT",
     "main": "./index.js"
 }
