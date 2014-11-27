@@ -1,6 +1,6 @@
 {
     "name": "remarkable-emoji",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Plugin to add emoji support to https://github.com/jonschlinkert/remarkable",
     "author": "Askabt (info@askabt.in)",
     "homepage": "http://scrollback.io",
